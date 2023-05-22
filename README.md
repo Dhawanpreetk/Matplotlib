@@ -1,6 +1,5 @@
-# Matplotlib
+# Matplotlib Project
 
-#Project 
 This Project is about  compliting the data from a most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
  The purpose of this study is to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
  
@@ -11,7 +10,7 @@ This Project is about  compliting the data from a most recent animal study. In t
  # Line Graph 
  It depicts that for a Mouse id l509 with the number of days the tumor also decrease and the drug used is Capomulin.
  
- ***Pie Chart**
+ # Pie Chart 
  Clearly depicts the Male mouse percentage is more than the female mouse percentage in this Clinical Study_
  
  
